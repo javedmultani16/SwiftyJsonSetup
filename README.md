@@ -3,6 +3,9 @@
 
 Download "SwiftyJSONAccelerator" it makes more easy to parse json just paste your json response and it will give you ready class, you have to just drag and drop taht class in your project and ready to use.
 
+<img width="751" alt="Screenshot 2019-09-26 at 5 27 07 PM" src="https://user-images.githubusercontent.com/16849127/65676691-e8f12980-e082-11e9-8384-f6c9532134a1.png">
+
+
 We have to use this library:
 https://github.com/SwiftyJSON/SwiftyJSON
 
